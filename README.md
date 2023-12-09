@@ -7,10 +7,9 @@ Just doing some ![kenny](https://github.com/AusafMo/OpenCV-References/assets/752
 
 2) Edge Basics : [First Principle of Computer Vision](https://www.youtube.com/watch?v=G8yp6f9V_6c&list=PL2zRqk16wsdqXEMpHrc4Qnb5rA1Cylrhx&index=2&pp=iAQB)
 
-3) Edge Detection, Sobel Operator : [Computerphile](https://www.youtube.com/watch?v=uihBwtPIBxM&list=PLzH6n4zXuckoRdljSlM2k35BufTYXNNeF&index=2&pp=iAQB)
+3) Gradients in more detail : [First Principle of Computer Vision](https://www.youtube.com/watch?v=lOEBsQodtEQ&pp=ygUqY29tcHV0ZXIgdmlzaW9uIGZpcnN0IHByaW5jaXBsZXMgZ3JhZGllbnRz)
 
-
-4) Gradients in more detail : [First Principle of Computer Vision](https://www.youtube.com/watch?v=lOEBsQodtEQ&pp=ygUqY29tcHV0ZXIgdmlzaW9uIGZpcnN0IHByaW5jaXBsZXMgZ3JhZGllbnRz)
+4) Edge Detection, Sobel Operator : [Computerphile](https://www.youtube.com/watch?v=uihBwtPIBxM&list=PLzH6n4zXuckoRdljSlM2k35BufTYXNNeF&index=2&pp=iAQB)
 
 5) Canny Edge Detection : [Computerphile](https://www.youtube.com/watch?v=sRFM5IEqR2w&list=PLzH6n4zXuckoRdljSlM2k35BufTYXNNeF&index=3&pp=iAQB) or [First Principles of Computer Vision](https://www.youtube.com/watch?v=hUC1uoigH6s)
 
