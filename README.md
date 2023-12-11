@@ -21,10 +21,9 @@ Just doing some ![Kenny](https://github.com/AusafMo/OpenCV-References/assets/752
 
 1) Well, it turns out, in a classic fashion, I  didn't realize that haar cascade is a BINARY Classifier as someone pointed out on [StackOverflow](https://stackoverflow.com/questions/27966447/gender-recognition-haarcascade), they suggested some alternatives like making two classifiers for male and female, and then comparing them to return the result. 
 <br>
-
-       And I am not doing that, not only it's not up to the use case requirements I have, but also sounds like a lot of (unnecessary?) work for a basic haar-cascade and I've got tea to make. Instead, I'd rather train a ResNet or other pre-trained models (in another repo probably dedicated to this task). 
-
-<br>   &nbsp; &nbsp; &nbsp; &nbsp; I revised the basics though, that's a plus (ig 🙃). <br>
+And I am not doing that, not only it's not up to the use case requirements I have, but also sounds like a lot of (unnecessary?) work for a basic haar-cascade and I've got tea to make. <br>
+Instead, I'd rather train a ResNet or other pre-trained models (in another repo probably dedicated to this task). <br>
+ I revised the basics though, that's a plus (ig 🙃). <br>
 
 2) The dataset I used and will be using in the future is available on [Kaggle](https://www.kaggle.com/datasets/maciejgronczynski/biggest-genderface-recognition-dataset).
 
