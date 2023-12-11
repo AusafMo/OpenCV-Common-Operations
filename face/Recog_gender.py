@@ -12,7 +12,7 @@ print("Features and Labels Loaded, reading yml..")
 face_recognizer = cv.face.LBPHFaceRecognizer_create()
 face_recognizer.read('face/gender_trained.yml')
 
-img = cv.imread('face/woman2.jpg')
+img = cv.imread('face/test/woman2.jpg')
 
 gray = cv.cvtColor(img, cv.COLOR_BGR2GRAY)
 cv.imshow('Face', gray)
