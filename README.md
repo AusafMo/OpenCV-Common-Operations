@@ -27,3 +27,7 @@ Instead, I'd rather train a ResNet or other pre-trained models (in another repo 
 2) The dataset I used and will be using in the future is available on [Kaggle](https://www.kaggle.com/datasets/maciejgronczynski/biggest-genderface-recognition-dataset).
 
 3) What parameters mean in face_detect.py's haar_cascade.detecMultiscale() method : [StackOverflow](https://stackoverflow.com/questions/20801015/recommended-values-for-opencv-detectmultiscale-parameters)
+
+### Update for me ig :] (yes,I have no friends)
+1) Someone told me about [Retina Face](https://github.com/serengil/retinaface) for Face *detection* tasks. Its good, but for blurry, side profile images, it stumbles. Whats great though is its capability for detecting in group images.
+2) That someone also told me about [Deep Face](https://github.com/serengil/deepface) for Face *Recognition and similar tasks*.
